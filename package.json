@@ -2,7 +2,7 @@
   "name": "jkcss-icons",
   "version": "1.0.0",
   "description": "JKCSS Icons",
-  "main": "index.js",
+  "main": "jkcss/jkicons.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
