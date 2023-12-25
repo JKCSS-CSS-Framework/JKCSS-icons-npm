@@ -6,7 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "JKCSS",
+    "JKCSS-Icons",
+    "CSS-Framework",
+    "Icon-CSS-Framework",
+    "Icon-Framework",
+    "Latest",
+    "2024",
+    "CSS",
+    "SCSS",
+    "SASS",
+    "Frant-End"
+  ],
   "author": "JehanKandy",
   "license": "MIT",
   "repository": {
