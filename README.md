@@ -8,10 +8,7 @@
 - This is Icon Framwork of JKCSS
 - The CDN added on v1.0.0 - 15 December 2023 version
 - link for [JKCSS Icons](https://jkcss-css-framework.github.io/JKCSS-Icons/site/content/docs/)
-
-# Docs
-
-- view Docs [JKCSS Icons Docs](https://jkcss-css-framework.github.io/JKCSS-Icons/site/content/docs/icon_list.html)
+- [JKCSS Icons NPM](https://www.npmjs.com/package/@jehankandy/jkcss-icons)
 
 # Projects
 
@@ -19,10 +16,26 @@
 
 # Releases
 
+## v1.1.0-beta1 24 December 2023
+
+- Developing interface
+- Updating Currency Symbols
+- Add and Updating Numbers (0 - 9)
+- Updating CDN link
+- Release 1.1.0 beta1 NPM version
+
 ## v1.0.0 15 December 2023
 
+- developing interface
+- adding first icons
+- adding Currency Symbols
+- add CDN link
+
+
+## v1.0.0-alpha1 14 December 2023
+
 - initial Release
-- add as NPM Package
+- developing interface
 - start the Project
 
 
