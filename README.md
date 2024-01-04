@@ -16,6 +16,32 @@
 
 # Releases
 
+## v1.2.0 04 January 2024 - latest
+
+- Developing interface
+- Updating CDN link
+- Updataing documentation for Icons
+- fixing some bugs
+- - not for backgroud remove in all user icons
+- - remove all version vice folders
+- - now only one folder
+- adding user friendly responsive navbar
+
+## v1.2.0-beta1 30 December 2023
+
+- Developing interface
+- Updating CDN link
+- adding documentation for Icons
+- adding user icons
+
+## v1.1.0 28 December 2023
+
+- Developing interface
+- adding copyright and other symbols
+- Updating CDN link
+- Release 1.1.0 NPM version
+- fixing some bugs on previous releases
+
 ## v1.1.0-beta1 24 December 2023
 
 - Developing interface
