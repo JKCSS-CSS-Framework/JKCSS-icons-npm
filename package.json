@@ -1,8 +1,8 @@
 {
   "name": "@jehankandy/jkcss-icons",
-  "version": "1.1.0-beta1",
+  "version": "1.2.0",
   "description": "JKCSS Icons",
-  "main": "jkicons.css",
+  "main": "jkcss/jkicons.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
